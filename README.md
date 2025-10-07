@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cc08aeb4-b4b2-4fa9-867e-9309525e62a7" alt="image" width="400"/>
+  <img src="https://github.com/user-attachments/assets/cc08aeb4-b4b2-4fa9-867e-9309525e62a7" alt="image" width="200"/>
 </p>
 
 Hey there, you can call me **Az**!  
