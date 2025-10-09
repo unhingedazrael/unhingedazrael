@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/cc08aeb4-b4b2-4fa9-867e-9309525e62a7" alt="image" width="200"/>
-</p>
+<img width="640" height="528" alt="image" src="https://github.com/user-attachments/assets/a585fc72-5e3d-43a8-89b0-91c76fcc163f" />
 
 Hey there, you can call me *Az*.
 
